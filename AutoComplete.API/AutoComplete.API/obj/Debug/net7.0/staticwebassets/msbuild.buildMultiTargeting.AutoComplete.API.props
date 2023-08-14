@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AutoComplete.API.props" />
+</Project>
